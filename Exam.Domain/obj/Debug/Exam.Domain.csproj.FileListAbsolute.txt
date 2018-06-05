@@ -1,0 +1,36 @@
+c:\users\hp-pc\documents\visual studio 2015\Projects\Exam\Exam.Domain\bin\Debug\Exam.Domain.dll
+c:\users\hp-pc\documents\visual studio 2015\Projects\Exam\Exam.Domain\bin\Debug\Exam.Domain.pdb
+c:\users\hp-pc\documents\visual studio 2015\Projects\Exam\Exam.Domain\obj\Debug\Exam.Domain.csprojResolveAssemblyReference.cache
+c:\users\hp-pc\documents\visual studio 2015\Projects\Exam\Exam.Domain\obj\Debug\Exam.Domain.dll
+c:\users\hp-pc\documents\visual studio 2015\Projects\Exam\Exam.Domain\obj\Debug\Exam.Domain.pdb
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\Exam.Domain\bin\Debug\Exam.Domain.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\Exam.Domain\bin\Debug\Exam.Domain.pdb
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\Exam.Domain\obj\Debug\Exam.Domain.dll
+C:\Users\AHMED\Desktop\Cours\ESPRIT\3GL\PI\ASP\Version17-05\Exam\Exam.Domain\obj\Debug\Exam.Domain.pdb
+D:\SAMI etudes\3ieme Esprit\pi-dev\Sante\Exam.Domain\bin\Debug\Exam.Domain.dll.config
+D:\SAMI etudes\3ieme Esprit\pi-dev\Sante\Exam.Domain\bin\Debug\Exam.Domain.dll
+D:\SAMI etudes\3ieme Esprit\pi-dev\Sante\Exam.Domain\bin\Debug\Exam.Domain.pdb
+D:\SAMI etudes\3ieme Esprit\pi-dev\Sante\Exam.Domain\bin\Debug\EntityFramework.dll
+D:\SAMI etudes\3ieme Esprit\pi-dev\Sante\Exam.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\SAMI etudes\3ieme Esprit\pi-dev\Sante\Exam.Domain\bin\Debug\EntityFramework.xml
+D:\SAMI etudes\3ieme Esprit\pi-dev\Sante\Exam.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\SAMI etudes\3ieme Esprit\pi-dev\Sante\Exam.Domain\obj\Debug\Exam.Domain.dll
+D:\SAMI etudes\3ieme Esprit\pi-dev\Sante\Exam.Domain\obj\Debug\Exam.Domain.pdb
+D:\SAMI etudes\3ieme Esprit\pi-dev\Sante\Exam.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\SAMI etudes\3ieme Esprit\pi-dev\Sante\Exam.Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\SAMI etudes\3ieme Esprit\pi-dev\Sante\Exam.Domain\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\SAMI etudes\3ieme Esprit\pi-dev\Sante\Exam.Domain\bin\Debug\Microsoft.Owin.dll
+D:\SAMI etudes\3ieme Esprit\pi-dev\Sante\Exam.Domain\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\SAMI etudes\3ieme Esprit\pi-dev\Sante\Exam.Domain\bin\Debug\Microsoft.Owin.Security.dll
+D:\SAMI etudes\3ieme Esprit\pi-dev\Sante\Exam.Domain\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\SAMI etudes\3ieme Esprit\pi-dev\Sante\Exam.Domain\bin\Debug\Newtonsoft.Json.dll
+D:\SAMI etudes\3ieme Esprit\pi-dev\Sante\Exam.Domain\bin\Debug\Owin.dll
+D:\SAMI etudes\3ieme Esprit\pi-dev\Sante\Exam.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\SAMI etudes\3ieme Esprit\pi-dev\Sante\Exam.Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\SAMI etudes\3ieme Esprit\pi-dev\Sante\Exam.Domain\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\SAMI etudes\3ieme Esprit\pi-dev\Sante\Exam.Domain\bin\Debug\Microsoft.Owin.xml
+D:\SAMI etudes\3ieme Esprit\pi-dev\Sante\Exam.Domain\bin\Debug\Microsoft.Owin.Security.xml
+D:\SAMI etudes\3ieme Esprit\pi-dev\Sante\Exam.Domain\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\SAMI etudes\3ieme Esprit\pi-dev\Sante\Exam.Domain\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\SAMI etudes\3ieme Esprit\pi-dev\Sante\Exam.Domain\bin\Debug\Newtonsoft.Json.xml
+D:\SAMI etudes\3ieme Esprit\pi-dev\Sante\Exam.Domain\obj\Debug\Exam.Domain.csprojResolveAssemblyReference.cache
